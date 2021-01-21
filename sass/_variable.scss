@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Poppins:700&display=swap');
+
+:root {
+  --color-pink: hsl(322, 100%, 66%);
+  --color-shadow-pink: rgba(255, 82, 193, 0.15);
+  --color-very-dark-cyan: hsl(192, 100%, 9%);
+  --color-gray-blue: #808E9A;
+  --color-shadow-black: rgba(0, 37, 46, 0.2231);
+  --color-very-pale-blue: hsl(207, 100%, 98%);
+  --color-white: #fff;
+  --color-dark-green: #00252E;
+  
+  --font-family-sans: 'Open Sans', sans-serif;
+  --font-family-poppins: 'Poppins', sans-serif;
+
+  --weight-regular: 400;
+  --weight-semi-bold: 600;
+  --weight-bold: 700;
+
+  --transition: 300ms ease-in-out;
+  --border-radius-5: 0.5rem;
+  --border-radius-6: 0.6rem;
+  --border-radius-11: 1.176rem;
+  --border-radius-20: 2rem;
+  --border-radius-40: 4rem;
+}
